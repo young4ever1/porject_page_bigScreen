@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "步数",
+        "value": 0,
+        "flag": false
+    },
+    {
+        "id": 2,
+        "name": "时间",
+        "value": 1,
+        "flag": false
+    },
+    {
+        "id": 2,
+        "name": "公里",
+        "value": "100",
+        "flag": false
+    },
+    {
+        "id": 3,
+        "name": "卡路里",
+        "value": "125",
+        "flag": false
+    },
+    {
+        "id": 4,
+        "name": "节能",
+        "value": "128",
+        "flag": false
+    },
+    {
+        "id": 5,
+        "name": "积分",
+        "value": "137",
+        "flag": false
+    }
+]
